@@ -1,4 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">TestAndroidApp</string>
+    <string name="app_name">#COCKTAIL</string>
+    <string name="font_name">Arial</string>
+    <string name="choose_button_value">#Choose</string>
 </resources>
